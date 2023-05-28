@@ -1,0 +1,16 @@
+C:\Users\hayvl\source\repos\wordl\wordl\x64\Debug\wordl.vcxproj.AssemblyReference.cache
+C:\Users\hayvl\source\repos\wordl\wordl\x64\Debug\wordl.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hayvl\source\repos\wordl\wordl\x64\Debug\wordl.vcxproj.GenerateResource.cache
+C:\Users\hayvl\source\repos\wordl\wordl\x64\Debug\wordl.MyForm.resources
+C:\Users\hayvl\source\repos\wordl\wordl\x64\Debug\wordl.Level1.resources
+C:\Users\hayvl\source\repos\wordl\wordl\x64\Debug\wordl.Level2.resources
+C:\Users\hayvl\source\repos\wordl\wordl\x64\Debug\wordl.Level3.resources
+C:\Users\hayvl\source\repos\wordl\wordl\x64\Debug\wordl.WinScreen.resources
+C:\Users\hayvl\OneDrive\Документы\GitHub\Wordl\wordl\x64\Debug\wordl.vcxproj.AssemblyReference.cache
+C:\Users\hayvl\OneDrive\Документы\GitHub\Wordl\wordl\x64\Debug\wordl.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\hayvl\OneDrive\Документы\GitHub\Wordl\wordl\x64\Debug\wordl.Level1.resources
+C:\Users\hayvl\OneDrive\Документы\GitHub\Wordl\wordl\x64\Debug\wordl.Level2.resources
+C:\Users\hayvl\OneDrive\Документы\GitHub\Wordl\wordl\x64\Debug\wordl.Level3.resources
+C:\Users\hayvl\OneDrive\Документы\GitHub\Wordl\wordl\x64\Debug\wordl.MyForm.resources
+C:\Users\hayvl\OneDrive\Документы\GitHub\Wordl\wordl\x64\Debug\wordl.WinScreen.resources
+C:\Users\hayvl\OneDrive\Документы\GitHub\Wordl\wordl\x64\Debug\wordl.vcxproj.GenerateResource.cache

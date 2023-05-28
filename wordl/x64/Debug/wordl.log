@@ -1,0 +1,11 @@
+﻿  Level1.cpp
+  Level2.cpp
+  Level3.cpp
+  MyForm.cpp
+C:\Users\hayvl\OneDrive\Документы\GitHub\Wordl\wordl\MyForm.cpp(6,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  WinScreen.cpp
+  WinScreen1.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  Level1.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  wordl.vcxproj -> C:\Users\hayvl\OneDrive\Документы\GitHub\Wordl\x64\Debug\wordl.exe
